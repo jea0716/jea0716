@@ -1,4 +1,4 @@
-### 안녕하세요. 나는 동재.
+### 안녕하세요 나는 동재.
 
 <!--
 **jea0716/jea0716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
