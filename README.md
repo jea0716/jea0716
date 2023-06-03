@@ -1,5 +1,5 @@
 <div align="center">
-  나는 동재
+  동재
   <hr>
 
   <br>
