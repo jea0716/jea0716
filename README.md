@@ -1,5 +1,5 @@
 <div align="center">
-  동재
+  안녕 안녕 나는 동재야~
   <hr>
 
   <br>
